@@ -21,7 +21,8 @@ namespace selenium1
 
 			DesiredCapabilities dc = (DesiredCapabilities)options.ToCapabilities();
 
-			IWebDriver driver = new RemoteWebDriver(new Uri("http://192.168.1.115:4444/wd/hub"), dc);
+			//IWebDriver driver = new RemoteWebDriver(new Uri("http://192.168.1.115:4444/wd/hub"), dc);
+			IWebDriver driver = new RemoteWebDriver(new Uri("https://vm-106.element34.net/wd/hub"), dc);
 
 			driver.Navigate().GoToUrl("https://www.lhsystems.com");
 
