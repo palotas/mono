@@ -1,0 +1,4 @@
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Release\selenium1.exe
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Release\WebDriver.dll
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Release\WebDriver.xml
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\obj\x86\Release\selenium1.exe
