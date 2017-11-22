@@ -1,0 +1,6 @@
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Debug\selenium1.exe
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Debug\selenium1.pdb
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Debug\WebDriver.dll
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\bin\Debug\WebDriver.xml
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\obj\x86\Debug\selenium1.exe
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium1\obj\x86\Debug\selenium1.pdb
