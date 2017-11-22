@@ -27,6 +27,7 @@ namespace selenium1
 
 			//comment
 			driver.Navigate().GoToUrl("https://www.lhsystems.com");
+			Console.WriteLine(driver.Title),
 
 			driver.Quit();
 
