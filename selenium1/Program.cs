@@ -12,10 +12,7 @@ namespace selenium1
 	{
 		static void Main()
 		{
-			Console.WriteLine("Hello World!");
-
-			// Keep the console window open in debug mode.
-			Console.WriteLine("Running test");
+			Console.WriteLine("###### Running client 2.53.1");
 
 			ChromeOptions options = new ChromeOptions();
 
