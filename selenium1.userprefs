@@ -5,15 +5,16 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="selenium.3.4.0\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="selenium1 Status">
     <Files>
       <File FileName="selenium1\Program.cs" Line="1" Column="1" />
       <File FileName="selenium1\README.md" Line="6" Column="1" />
       <File FileName="selenium.3.4.0\Program.cs" Line="1" Column="1" />
       <File FileName="selenium1\packages.config" Line="4" Column="12" />
-      <File FileName="selenium.3.5.2\Program.cs" Line="1" Column="1" />
+      <File FileName="selenium.3.5.2\Program.cs" Line="36" Column="2" />
       <File FileName="selenium.3.5.2\packages.config" Line="1" Column="1" />
       <File FileName="selenium.3.4.0\packages.config" Line="1" Column="1" />
+      <File FileName="selenium1 Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
 </Properties>
