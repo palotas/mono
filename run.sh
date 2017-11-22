@@ -1,3 +1,3 @@
 #!/bin/bash
 # A sample Bash script, by Ryan
-echo Hello World!
+mono /mono/selenium.3.5.2/bin/Debug/selenium.3.5.2.exe
