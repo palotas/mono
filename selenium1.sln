@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium.3.4.0", "selenium.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium.3.5.2", "selenium.3.5.2\selenium.3.5.2.csproj", "{B60F1ECE-F78B-404A-8308-16810B3015E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium.2.53", "selenium.2.53\selenium.2.53.csproj", "{7F4C8CB4-9063-42C0-8CF6-35D47601D420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -30,5 +32,9 @@ Global
 		{B60F1ECE-F78B-404A-8308-16810B3015E3}.Debug|x86.Build.0 = Debug|x86
 		{B60F1ECE-F78B-404A-8308-16810B3015E3}.Release|x86.ActiveCfg = Release|x86
 		{B60F1ECE-F78B-404A-8308-16810B3015E3}.Release|x86.Build.0 = Release|x86
+		{7F4C8CB4-9063-42C0-8CF6-35D47601D420}.Debug|x86.ActiveCfg = Debug|x86
+		{7F4C8CB4-9063-42C0-8CF6-35D47601D420}.Debug|x86.Build.0 = Debug|x86
+		{7F4C8CB4-9063-42C0-8CF6-35D47601D420}.Release|x86.ActiveCfg = Release|x86
+		{7F4C8CB4-9063-42C0-8CF6-35D47601D420}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
