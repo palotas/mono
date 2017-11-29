@@ -1,0 +1,7 @@
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\bin\Debug\selenium.2.53.exe
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\bin\Debug\selenium.2.53.pdb
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\bin\Debug\WebDriver.dll
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\bin\Debug\WebDriver.xml
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\obj\x86\Debug\selenium.2.53.csprojResolveAssemblyReference.cache
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\obj\x86\Debug\selenium.2.53.exe
+C:\Users\mpalotas\Documents\Projects\selenium1\selenium.2.53\obj\x86\Debug\selenium.2.53.pdb
