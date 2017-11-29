@@ -18,7 +18,7 @@ namespace selenium1
 
 			DesiredCapabilities dc = (DesiredCapabilities)options.ToCapabilities();
 			dc.SetCapability("e34:token", "57ffedec");
-			dc.SetCapability("video", true);
+			//dc.SetCapability("video", false);
 
 			//IWebDriver driver = new RemoteWebDriver(new Uri("http://192.168.1.115:4444/wd/hub"), dc);
 			IWebDriver driver = new RemoteWebDriver(new Uri("https://vm-106.element34.net/wd/hub"), dc);
@@ -27,9 +27,6 @@ namespace selenium1
 			//comment
 			driver.Navigate().GoToUrl("https://www.lhsystems.com");
 			Console.WriteLine(driver.Title);
-			Console.WriteLine(((RemoteWebDriver)driver).Capabilities.GetCapability("webdriver.remote.sessionid").ToString());
-
-
 
 			driver.Quit();
 
