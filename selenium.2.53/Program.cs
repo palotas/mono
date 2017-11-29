@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
@@ -27,6 +28,7 @@ namespace selenium1
 			//comment
 			driver.Navigate().GoToUrl("https://www.lhsystems.com");
 			Console.WriteLine(driver.Title);
+			Thread.Sleep(2000);
 
 			driver.Quit();
 
